@@ -1,1 +1,1 @@
-[Watch the video](link_to_raw_mp4_file)
+[Watch the video](IMG_9679.MP4)
