@@ -1,0 +1,801 @@
+[
+        {
+          "user": "Hi",
+          "bot": "Hi!"
+        },
+        {
+          "user": "Hello",
+          "bot": "Hello!"
+        },
+        {
+          "user": "Hey there",
+          "bot": "Hi"
+        },
+        {
+          "user": "Good morning",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hi",
+          "bot": "Hi"
+        },
+        {
+          "user": "Good afternoon",
+          "bot": "Hi"
+        },
+        {
+          "user": "Greetings",
+          "bot": "Hi"
+        },
+        {
+          "user": "Yo",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hey",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hi there",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hello there",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hiya",
+          "bot": "Hi"
+        },
+        {
+          "user": "Good day",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hey!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hi!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hey there!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Good morning!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hey!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Good evening!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hi!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hello there!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Good day!",
+          "bot": "Hi"
+        },
+        {
+          "user": "How's it going!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hey!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hi!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hello!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Hey there!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Good morning!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Howdy!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Greetings!",
+          "bot": "Hi"
+        },
+        {
+          "user": "Yo!",
+          "bot": "Hi"
+        },
+      
+{
+    "user": "What is your address?", 
+    "bot": "Our address is"
+},
+{
+    "user": "Address?", 
+    "bot": "Our address is"
+},
+{
+    "user": "and your address?", 
+    "bot": "Our address is"
+},
+{
+    "user": "give me your address", 
+    "bot": "Our address is"
+},
+{
+    "user": "what is your location", 
+    "bot": "Our address is"
+},
+{
+    "user": "your telephone?", 
+    "bot": "Our address is"
+},
+{
+    "user": "what is your number", 
+    "bot": "Our address is"
+},
+{
+    "user": "What food do you have today?",
+    "bot": "Today we have"
+},
+{
+    "user": "Do you have any vegetarian options?",
+    "bot": "Yes, we have vegetarian foods that are"
+},
+{
+    "user": "Are there any gluten-free options available?",
+    "bot": "Yes, we offer gluten-free food that are"
+},
+{
+    "user": "Can I see the dessert menu?",
+    "bot": "Sure, our dessert options include"
+},
+{
+    "user": "Do you offer any beverages?",
+    "bot": "Yes, we have a variety of drinks including"
+},
+{
+    "user": "any beverages?",
+    "bot": "Yes, we have a variety of drinks including"
+},
+{
+  "user": "What drinks do you have?",
+  "bot": "We have a variety of drinks including"
+},
+{
+    "user": "Do you offer any beverages?",
+    "bot": "Yes, we have a variety of drinks including"
+},
+{
+    "user": "Do you have outdoor seating?",
+    "bot": "Yes, we have."
+},
+{
+    "user": "Is there a kids menu?",
+    "bot": "Yes, we have kinds menu."
+},
+{
+    "user": "What are your opening hours?",
+    "bot": "The opening hour is"
+},
+{
+    "user": "When are you open?",
+    "bot": "The opening hour is"
+},
+{
+    "user": "When restaurant is open?",
+    "bot": "The opening hour is"
+},
+{
+    "user": "When can I come?",
+    "bot": "The opening hour is"
+},
+
+{
+    "user": "Do you have any daily specials?",
+    "bot": "Yes, today we have"
+},
+{
+    "user": "Are there any vegan options available?",
+    "bot": "Yes, we offer vegan menu."
+},
+{
+    "user": "vegan options available?",
+    "bot": "Yes, we offer vegan menu."
+},
+{
+    "user": "any vegan options?",
+    "bot": "Yes, we offer vegan menu."
+},
+{
+    "user": "do you any vegan food?",
+    "bot": "Yes, we offer vegan menu."
+},
+{
+    "user": "Can I make a reservation for a large group?",
+    "bot": "Yes, we accept reservations."
+},
+{
+    "user": "I want to reserve a table",
+    "bot": "You can reserve a table online."
+},
+{
+    "user": "Do you have any table?",
+    "bot": "Currently "
+},
+{
+    "user": "Can I reserve a table online?",
+    "bot": "Yes."
+},
+{
+  "user": "Can I reserve a table?",
+  "bot": "Yes you can."
+},
+{
+  "user": "Can I reserve a seat?",
+  "bot": "Yes you can."
+},
+{
+  "user": "I wanna reserve a table",
+  "bot": "Yes you can."
+},
+{
+  "user": "Do you have empty seat?",
+  "bot": "Yes."
+},
+    {
+        "user": "Do you have any desserts?",
+        "bot": "Sure, our dessert options include"
+    },
+    {
+        "user": "Are there any nut-free options available?",
+        "bot": "Yes, we have nut-free options."
+    },
+    {
+        "user": "Can I see the drinks list?",
+        "bot": "Yes, here it is."
+    },
+    {
+        "user": "What kind of desserts do you have?",
+        "bot": "We have ."
+    },
+    {
+        "user": "Are there any vegetarian available?",
+        "bot": "Yes, we offer"
+    },
+    {
+        "user": "What types of food do you offer?",
+        "bot": "We offer"
+    },
+    {
+        "user": "Do you have vegetarian foods?",
+        "bot": "Yes, we offer several vegetarian foods including"
+    },
+    {
+        "user": "any vegetarian foods?",
+        "bot": "Yes, we offer several vegetarian foods including"
+    },
+    {
+        "user": "Do you have vegetarian menu?",
+        "bot": "Yes, we offer several vegetarian foods including."
+    },
+    {
+        "user": "anything for vegetarians?",
+        "bot": "Yes, we offer several vegetarian foods including."
+    },
+    {
+        "user": "Are there any low-calorie options available?",
+        "bot": "Yes, we have"
+    },
+    {
+        "user": "What kind of drinks do you have?",
+        "bot": "We have"
+    },
+
+    {
+        "user": "Can I see the full menu?",
+        "bot": "Of cource, Our full menu is"
+    },
+    {
+        "user": "Do you offer gift cards?",
+        "bot": "Yes, in-store or online."
+    },
+
+
+    {
+        "user": "Are there any spicy dishes available?",
+        "bot": "Yes, we offer "
+    },
+    {
+        "user": "Can I order dessert to go?",
+        "bot": "Yes, you can"
+    },
+
+    {
+        "user": "Can I bring my own birthday cake?",
+        "bot": "Yes, you can."
+    },
+  
+    {
+        "user": "Do you have any outdoor seating?",
+        "bot": "Yes, available."
+    },
+    {
+        "user": "Can I order a special cake for a celebration?",
+        "bot": "Yes, with advance notice."
+    },
+    {
+        "user": "Are there any drinks available?",
+        "bot": "Yes, drinks are available."
+    },
+    {
+        "user": "Can I request extra sauce or toppings on my pizza?",
+        "bot": "Yes, with extra charge."
+    },
+    {
+        "user": "Do you offer live music or entertainment?",
+        "bot": "Yes, occasionally."
+    },
+    {
+        "user": "Are there any outdoor games or activities?",
+        "bot": "Yes, weather permitting."
+    },
+    {
+        "user": "Can I order food for pickup?",
+        "bot": "Yes, by phone or online."
+    },
+    {
+        "user": "Are there any lunch combos available?",
+        "bot": "Yes, on weekdays."
+    },
+    {
+        "user": "Can I request a private dining area for a special event?",
+        "bot": "Yes, available."
+    },
+    {
+        "user": "Do you offer any special discounts for seniors?",
+        "bot": "Yes, on select items."
+    },
+    {
+        "user": "Can I order a special cocktail?",
+        "bot": "Yes, based on preference."
+    },
+    {
+        "user": "Are there any spicy dishes on the menu?",
+        "bot": "Yes, like jalapeno pop"
+    }
+    ,
+    {
+        "user": "Do you offer gluten-free beer?",
+        "bot": "Yes, as an alternative option."
+    },
+    {
+        "user": "Can I order dessert to go?",
+        "bot": "Yes, for takeout."
+    },
+    {
+        "user": "Do you have any happy hour specials?",
+        "bot": "Yes, on select days."
+    },
+    {
+        "user": "Do you offer brunch on weekends?",
+        "bot": "Yes, with breakfast and lunch options."
+    },
+    {
+        "user": "Can I bring my own birthday cake?",
+        "bot": "Yes, you can."
+    },
+    {
+        "user": "Are there any seats available?",
+        "bot": "Yes."
+    },
+    {
+        "user": "Do you have any outdoor seating?",
+        "bot": "Yes, available."
+    },
+    {
+        "user": "Can I order a special cake for a celebration?",
+        "bot": "Yes, with advance notice."
+    },
+    {
+        "user": "Are there any kid-friendly drinks available?",
+        "bot": "Yes, such as fruit juices."
+    },
+    {
+        "user": "Can I request extra sauce or toppings on my pizza?",
+        "bot": "Yes, with extra charge."
+    },
+    {
+        "user": "Do you offer live music or entertainment?",
+        "bot": "Yes, occasionally."
+    },
+    {
+        "user": "Are there any outdoor games or activities?",
+        "bot": "Yes, weather permitting."
+    },
+    {
+        "user": "Can I order food for pickup?",
+        "bot": "Yes, you can."
+    },
+    {
+        "user": "Are there any lunch combos available?",
+        "bot": "Yes, on weekdays."
+    },
+    {
+        "user": "Can I request a private dining area for a special event?",
+        "bot": "Yes, available."
+    },
+    {
+        "user": "Do you offer any special discounts for seniors?",
+        "bot": "Yes, on select items."
+    },
+    {
+        "user": "Can I order a special cocktail?",
+        "bot": "Yes, based on preference."
+    },
+    {
+        "user": "Are there any spicy dishes on the menu?",
+        "bot": "Yes, like jalapeno poppers."
+    },
+    {
+        "user": "Do you have a wine list?",
+        "bot": "Yes, with red, white, and sparkling wines."
+    },
+    {
+        "user": "Are there any hidden charges on the bill?",
+        "bot": "No hidden charges."
+    },
+    {
+        "user": "Can I bring my own bottle of wine?",
+        "bot": "Yes, with a corkage fee."
+    },
+    {
+        "user": "Do you offer live music?",
+        "bot": "Yes, on weekends."
+    },
+    {
+        "user": "Is there a children's menu?",
+        "bot": "Yes, with options like chicken tenders and macaroni."
+    },
+    {
+        "user": "Do you offer any vegetarian appetizers?",
+        "bot": "Yes, such as stuffed mushrooms and bruschetta."
+    },
+    {
+        "user": "Are there any local beers on tap?",
+        "bot": "Yes, local craft beers."
+    },
+    {
+        "user": "Can I order a salad as a main course?",
+        "bot": "Yes, with protein options."
+    },
+    {
+        "user": "Do you have any signature cocktails?",
+        "bot": "Yes, including our house margarita and mojito."
+    },
+    {
+        "user": "Can I make a reservation for outdoor seating?",
+        "bot": "Yes, specify when booking."
+    },
+    {
+        "user": "Are there any age restrictions for the kids menu?",
+        "bot": "Designed for children 12 and under."
+    },
+    {
+        "user": "Can I order a side of bread with my meal?",
+        "bot": "Yes, options like garlic bread."
+    },
+    {
+        "user": "Is there a minimum order requirement for delivery?",
+        "bot": "Yes, $20 minimum."
+    },
+    {
+        "user": "Do you offer any breakfast specials?",
+        "bot": "Yes, until 11:00 AM on weekends."
+    },
+    {
+        "user": "Can I order extra sauce on the side?",
+        "bot": "Yes, for an additional charge."
+    },
+    {
+        "user": "Do you have any signature desserts?",
+        "bot": "Yes, including"
+    },
+    {
+        "user": "how to contact you?",
+        "bot": "To contact us, "
+    },
+    {
+        "user": "how to contact restaurant?",
+        "bot": "To contact us, "
+    }, 
+    {
+        "user": "give me restaurant contact information",
+        "bot": "To contact us, "
+        },
+    {
+    "user": "Are there any low-carb options on the menu?",
+    "bot": "Yes, including salads and vegetable sides."
+    },
+    {
+    "user": "Can I order a half-size portion of pasta?",
+    "bot": "Yes, upon request."
+    },
+    {
+    "user": "Are there any vegetarian entrees?",
+    "bot": "Yes, we have."
+    },
+    {
+    "user": "Do you offer any gluten-free pizza options?",
+    "bot": "Yes, with gluten-free crust and toppings."
+    },
+    {
+    "user": "Can I request a special table for a romantic dinner?",
+    "bot": "Yes, please specify your preferences."
+    },
+    {
+    "user": "Do you have any specials for seniors?",
+    "bot": "Yes, on certain days."
+    },
+    {
+    "user": "Can I order a side of soup with my sandwich?",
+    "bot": "Yes, for an additional charge."
+    },
+    {
+    "user": "Do you offer any non-alcoholic beverages?",
+    "bot": "Yes, we do."
+    },
+    {
+    "user": "Can I order a salad without the dressing?",
+    "bot": "Yes, just let your server know."
+    },
+    {
+    "user": "Are there any specials for military personnel?",
+    "bot": "Yes, with valid ID."
+    },
+    {
+    "user": "Can I order a side of fruit instead of fries?",
+    "bot": "Yes, on select items."
+    },
+    {
+    "user": "Do you offer any heart-healthy options?",
+    "bot": "Yes, including grilled fish and salads."
+    },
+    {
+    "user": "Are there any options for vegetarians?",
+    "bot": "Yes, including veggie burgers and salads."
+    },
+    {
+    "user": "Do you offer any locally sourced ingredients?",
+    "bot": "Yes, whenever possible."
+    },
+    {
+    "user": "Do you offer any lunch combos?",
+    "bot": "Yes, with various choices."
+    },
+    {
+    "user": "Can I order a side of bacon with my breakfast?",
+    "bot": "Yes, for an additional charge."
+    },
+    {
+    "user": "Are there any options for vegans?",
+    "bot": "Yes, including ."
+    },
+    {
+    "user": "Can I order a side of salsa with my chips?",
+    "bot": "Yes, for an additional charge."
+    },
+    {
+    "user": "Do you offer any specials for birthdays?",
+    "bot": "Yes, including free desserts."
+    },
+    {
+        "user": "do you have desserts?",
+        "bot": "Yes, we have desserts including"
+    },
+    {
+        "user": "what desserts do you have?",
+        "bot": "We offer"
+    },
+    {
+        "user": "what desserts do you have?",
+        "bot": "We have"
+    },
+
+    {
+    "user": "Do you offer any lunch specials?",
+    "bot": "Yes we do."
+    },
+
+    {
+        "user": "Goodbye",
+        "bot": "Goodbye! Have a great day!"
+      },
+      {
+        "user": "See you later",
+        "bot": "See you later! Take care!"
+      },
+      {
+        "user": "Bye",
+        "bot": "Bye! Until next time!"
+      },
+      {
+        "user": "Take care",
+        "bot": "You too! Take care!"
+      },
+      {
+        "user": "Farewell",
+        "bot": "Farewell! Wishing you all the best!"
+      },
+      {
+        "user": "Have a good one",
+        "bot": "You too! Have a good one!"
+      },
+      {
+        "user": "See you soon",
+        "bot": "See you soon! Looking forward to it!"
+      },
+      {
+        "user": "So long",
+        "bot": "So long! Until we meet again!"
+      },
+      {
+        "user": "Take it easy",
+        "bot": "You too! Take it easy!"
+      },
+      {
+        "user": "Adios",
+        "bot": "Adios! Hasta luego!"
+      },
+      {
+        "user": "Catch you later",
+        "bot": "Catch you later! Bye for now!"
+      },
+      {
+        "user": "Later",
+        "bot": "Later! Take care!"
+      },
+      {
+        "user": "Bye-bye",
+        "bot": "Bye-bye! Until next time!"
+      },
+      {
+        "user": "See you",
+        "bot": "See you! Take care!"
+      },
+      {
+        "user": "Until next time",
+        "bot": "Until next time! Farewell!"
+      },
+      {
+        "user": "Goodnight",
+        "bot": "Goodnight! Sweet dreams!"
+      },
+      {
+        "user": "Time to go",
+        "bot": "Time to go! Take care!"
+      },
+      {
+        "user": "Bye now",
+        "bot": "Bye now! Have a great day!"
+      },
+      {
+        "user": "Peace out",
+        "bot": "Peace out! See you later!"
+      },
+      {
+        "user": "Cheerio",
+        "bot": "Cheerio! Until we meet again!"
+      },
+      {
+        "user": "Take care of yourself",
+        "bot": "You too! Take care of yourself!"
+      },
+      {
+        "user": "So long for now",
+        "bot": "So long for now! See you soon!"
+      },
+      {
+        "user": "Bye for now",
+        "bot": "Bye for now! Take care!"
+      },
+      {
+        "user": "Have a good day",
+        "bot": "Thank you! You too! Have a good day!"
+      },
+      {
+        "user": "Can you tell me about your menu?",
+        "bot": "We offer "
+      },
+      {
+        "user": "What's typically on your menu?",
+        "bot": "We offer "
+      },
+      {
+        "user": "What kind of cuisine do you serve?",
+        "bot": "We offer "
+      },
+      {
+        "user": "Tell me about the food options",
+        "bot": "We offer "
+      },
+      {
+        "user": "What dishes do you have?",
+        "bot": "We have "
+      },
+      {
+        "user": "What foods do you have?",
+        "bot": "We have "
+      },
+      {
+        "user": "What do you have?",
+        "bot": "We have "
+      },
+      {
+        "user": "What do you offer?",
+        "bot": "We offer "
+      },
+      {
+        "user": "What do you offer today?",
+        "bot": "We offer "
+      },
+      {
+        "user": "Do you have any offer?",
+        "bot": "We offer "
+      },
+      {
+        "user": "Tell me about your menu",
+        "bot": "We have "
+      },
+      {
+        "user": "What's available to eat?",
+        "bot": "We have "
+      },
+      {
+        "user": "What's available to eat?",
+        "bot": "We have "
+      },
+      {
+        "user": "Could you describe your menu?",
+        "bot": "We have "
+      },
+      {
+        "user": "What's your menu like?",
+        "bot": "We have "
+      },
+      {
+        "user": "what is your menu",
+        "bot": "We have "
+      },
+      {
+        "user": "special offers today?",
+        "bot": "We have "
+      },
+      {
+        "user": "What foods are on discount?",
+        "bot": "We have "
+      },
+      {
+        "user": "What is the food of the day?",
+        "bot": "We have "
+      }
+
+]
