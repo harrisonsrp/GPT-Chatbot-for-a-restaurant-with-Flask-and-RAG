@@ -1,0 +1,218 @@
+{"intents": [
+
+    {
+        "tag": "general_intent",
+        "patterns": [
+        "Hi",
+        "Bye",
+        "Hello",
+        "how are you today",
+        "I have some requests",
+        "Thanks for your help",
+        "Thankns",
+        "Thank you",
+        "That was all",
+        "I will",
+        "Until next time",
+        "Ok",
+        "sure",
+        "goodbye",
+        "I want to order",
+        "how to order",
+        "I was thinking about a food",
+        "I am hungry",
+        "Can I order here?"
+        ],
+        "responses": ["none"]
+    },
+    {
+        "tag": "not_allowed",
+        "patterns": [
+        "sex",
+        "girl",
+        "sexy",
+        "fuck",
+        "porn",
+        "ass",
+        "bitch",
+        "cock",
+        "dick",
+        "pussy",
+        "shit",
+        "slut",
+        "whore",
+        "asshole",
+        "cum",
+        "damn",
+        "bastard",
+        "cunt",
+        "nude",
+        "screw",
+        "wank",
+        "blowjob",
+        "Fuck you",
+        "idiot",
+        "useless"
+        ],
+        "responses": ["Let's keep the conversation respectful, please."]
+    },
+    {
+        "tag": "available_tables",
+        "patterns": [
+        "reserve a table",
+        "reservation",
+        "resereve a seat",
+        "availabe seats",
+        "I want to resereve a table",
+        "How many seats are available?", 
+        "Available seats",
+        "How many tables are available?", 
+        "Available tables", 
+        "Are there any tables available?", 
+        "capacity of the restaurant now", 
+        "any available tables?", 
+        "any seats left?", 
+        "tables available now", 
+        "May I know if you have any tables which I can book?"
+        ],
+        "responses": ["1 Table is availabe for 5 persons"]
+    },
+    {
+        "tag": "hours",
+        "patterns": [
+            "hours of operation", 
+            "timing", 
+            "open", 
+            "open now", 
+            "open on holidays", 
+            "open on all weekdays?", 
+            "working hours", 
+            "hours", 
+            "working hours?"
+        ],
+        "responses": ["10am-12am Monday-Friday!"]
+    },
+    {
+        "tag": "menu",
+        "patterns": [
+          "Can you tell me about your menu?",
+          "What's typically on your menu?",
+          "What kind of cuisine do you serve?",
+          "Tell me about the food options",
+          "What dishes do you have?",
+          "What foods do you have?",
+          "What do you have?",
+          "Tell me about your menu",
+          "What's available to eat?",
+          "Could you describe your menu?",
+          "I'm curious about your offerings",
+          "What's your menu like?",
+          "what is your menu"
+        ],
+        "responses": ["beverages, desserts, vegetarian foods, Vegan foods and kids food"]
+      },
+    {
+        "tag": "contact",
+        "patterns": [
+            "contact information", 
+            "contact you", 
+            "contact details", 
+            "feedback", 
+            "give some feedback", 
+            "help desk phone number?",
+            "restaurant number?", 
+            "call resutaurant",
+            "email address?"
+        ],
+        "responses": ["Our email address is contact@restaurant.com and our help desk number is 5145252525"]
+    },
+    {
+        "tag": "address",
+        "patterns": [
+            "location?",
+            "where located?", 
+            "where restaurant located?", 
+            "address", 
+            "whats the address?", 
+            "address of the restaurant", 
+            "I am not able to locate you", 
+            "I can't find your location", 
+            "address of the restaurant", 
+            "how to reach there?", 
+            "Address?", 
+            "address of this restaurant?"
+        ],
+        "responses": ["1234 Rue de la Montagne, Montreal, Quebec"]
+    },
+    {
+        "tag": "offers",
+        "patterns": [
+            "special offers today?", 
+            "festive offers?", 
+            "What foods are on discount?", 
+            "any discounts", 
+            "any discount offers", 
+            "any offers?", 
+            "offer", 
+            "discounts available?"
+        ],
+        "responses": ["Italian Pepperoni Pizza with soda"]
+    },
+    {
+        "tag": "vegan_enquiry",
+        "patterns": [
+            "the vegan option?",
+            "any vegan options?", 
+            "vegan in your menu?", 
+            "I am vegan.", 
+            "vegan food?",
+            "vegan", 
+            "restaurant vegan", 
+            "place vegan",
+            "vegan food in your menu?"
+        ],
+        "responses": ["veggie wraps, hummus plates, quinoa bowls, avocado toast, lentil soup, and roasted vegetable salads"]
+    },
+    {
+        "tag": "veg_enquiry",
+        "patterns": [
+        "the vegetarian options?",
+        "the vegetarian menu?",
+        "any vegetarian options?", 
+        "Please show me your best vegetarian foods", 
+        "I am vegetarian", 
+        "vegetarian", 
+        "place vegetarian?"
+    ],
+        "responses": ["vegetarian burgers, vegetarian salads, and vegetarian pasta"]
+    },
+    {
+        "tag": "beverages",
+        "patterns": [
+          "beverages do you offer?",
+          "the drink menu",
+          "non-alcoholic drinks?",
+          "alcoholic drinks?",
+          "kind of drinks do you have?",
+          "recommend a beverage?",
+          "Any drinks?",
+          "drink do you have?"
+        ],
+        "responses": ["Beer, soda, juice, and water"]
+      },
+      {
+        "tag": "desserts",
+        "patterns": [
+          "desserts",
+          "the dessert menu?",
+          "any sweets?",
+          "desserts do you have?",
+          "recommend a dessert?",
+          "Any desserts?",
+          "desserts do you have available?"
+        ],
+        "responses": ["chocolate cake, cheesecake, and fruit salad"]
+      }
+      
+]
+}
