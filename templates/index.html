@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <title>GPT FoodBot By Homayoun</title>
+  <head>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  </head>
+  <body class="container" background="{{ url_for('static', filename='images/slider.jpg') }}">
+    <img />
+    <center class="title_chat">
+      <row >
+      <span> <i class="fas fa-utensils"></i>  Ask FoodBot</span> <br>
+      <p class="developer" >  Developed by Homayoun</p>
+      </row>
+    
+    </center>
+    
+    <div class="boxed">
+      <div>
+        <div id="chatbox">
+        </div>
+      </div>
+        <div  id="userInput">
+          <input id="nameInput" type="text" name="msg" placeholder="Type your request..." />
+        </div>
+<script>
+        function getBotResponse() {
+          var rawText = $("#nameInput").val();
+          var userHtml = '<p class="userText"><span> <i class="fas fa-user user-icon"></i> ' + rawText + "</span></p>";
+          $("#nameInput").val("");
+          $("#chatbox").append(userHtml);
+          document
+            .getElementById("userInput")
+            .scrollIntoView({ block: "start", behavior: "smooth" });
+          $.get("/get", { msg: rawText }).done(function(data) {
+            var botHtml = '<p class="botText"><span> <i class="fas fa-robot bot-icon"></i> ' + data + "</span></p>";
+            $("#chatbox").append(botHtml);
+            document
+              .getElementById("userInput")
+              .scrollIntoView({ block: "start", behavior: "smooth" });
+          });
+        }
+        $("#nameInput").keypress(function(e) {
+          if (e.which == 13) {
+            getBotResponse();
+          }
+        });
+</script>
+</div>
+</body>
+</html>
